@@ -1,0 +1,337 @@
+POX 0.7.0 (gar) / Copyright 2011-2020 James McCauley, et al.
+WARNING:version:Support for Python 3 is experimental.
+INFO:core:POX 0.7.0 (gar) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 33144
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 33144
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 33144
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 33144
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.3
+INFO:experimento2:IP destino: 10.0.0.1
+INFO:experimento2:MAC origem: 00:00:00:00:00:03
+INFO:experimento2:MAC destino: 00:00:00:00:00:01
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 33144
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 54536
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.3
+INFO:experimento2:IP destino: 10.0.0.1
+INFO:experimento2:MAC origem: 00:00:00:00:00:03
+INFO:experimento2:MAC destino: 00:00:00:00:00:01
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 54536
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 37172
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 37172
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 37172
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 37172
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.1
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:01
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 37172
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 38262
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.1
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:01
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 38262
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 34600
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.3
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:03
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 34600
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 34610
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: TCP
+INFO:experimento2:IP origem: 10.0.0.3
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:03
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 34610
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 51305
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 51305
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 51305
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 51305
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 51305
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.1
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:01
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 51305
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 43565
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.3
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:03
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 43565
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 60663
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.3
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:03
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 60663
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.2
+INFO:experimento2:IP destino: 10.0.0.1
+INFO:experimento2:MAC origem: 00:00:00:00:00:02
+INFO:experimento2:MAC destino: 00:00:00:00:00:01
+INFO:experimento2:Porta de origem: 40954
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.2
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:02
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 40954
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.3
+INFO:experimento2:IP destino: 10.0.0.1
+INFO:experimento2:MAC origem: 00:00:00:00:00:03
+INFO:experimento2:MAC destino: 00:00:00:00:00:01
+INFO:experimento2:Porta de origem: 33573
+INFO:experimento2:Porta de destino: 5001
+INFO:experimento2:VLAN: 0
+INFO:experimento2:
+IPv4 Packet:
+INFO:experimento2:Protocolo: UDP
+INFO:experimento2:IP origem: 10.0.0.1
+INFO:experimento2:IP destino: 10.0.0.3
+INFO:experimento2:MAC origem: 00:00:00:00:00:01
+INFO:experimento2:MAC destino: 00:00:00:00:00:03
+INFO:experimento2:Porta de origem: 5001
+INFO:experimento2:Porta de destino: 33573
+INFO:experimento2:VLAN: 0
+^CINFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+
