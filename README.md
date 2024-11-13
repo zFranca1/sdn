@@ -14,6 +14,10 @@ sudo -E mn --topo single,2 --mac --switch ovsk --controller remote
 ### run pox controller
 sudo ./pox.py forwarding.l3_learning cap-packages
 
+### pox with database
+./pox.py forwarding.l3_learning vlan_controller_db --host=192.168.0.124 --dbname=sdn --user=docker --password=docker
+
+
 
 
 
